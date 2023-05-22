@@ -7,3 +7,5 @@ def find_name(age_value)
     end
   end
 end
+
+p find_name(31)
